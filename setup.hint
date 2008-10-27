@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6 libXaw8 libXprintUtil1
-sdesc: "Xorg plain text browser"
-ldesc: "Xorg plain text browser"
+sdesc: "X.Org plain text browser"
+ldesc: "X.Org plain text browser"

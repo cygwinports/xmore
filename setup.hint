@@ -1,4 +1,0 @@
-category: X11
-requires: libgcc1 libXaw7 libXt6
-sdesc: "X.Org plain text browser"
-ldesc: "X.Org plain text browser"

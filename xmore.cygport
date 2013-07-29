@@ -1,0 +1,8 @@
+inherit xorg
+
+NAME="xmore"
+VERSION=1.0.2
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X text pager"
+DESCRIPTION="xmore is a plain text browser for the X Window System."
